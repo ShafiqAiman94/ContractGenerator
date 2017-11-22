@@ -4,4 +4,4 @@ Deploying smart contract to the blockchain is quite annoyed for me. So, I create
 
 
 ## Running the script
-```bash ContractGenerator file.sol```
+```bash ContractGenerator.sh file.sol```
