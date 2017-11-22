@@ -5,5 +5,5 @@ Deploying smart contract on the blockchain is quite annoyed for me because I did
 
 ## Running the script
 ```bash ContractGenerator.sh file.sol``` 
-It will produce a ```.js``` and deploy it on your Ethereum Virtual Machine (EVM)
+It will produce a ```.js``` and deploy it on your Ethereum Virtual Machine (EVM) by using this command
 ```loadScript("path/to/your/jsfile")```
